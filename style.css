@@ -1,0 +1,121 @@
+.logo{
+    font-size: 30px;
+    font-weight: 800;
+    color: rgb(18, 36, 143);
+    padding: 20px;
+    position: absolute;
+    
+}
+
+
+
+.home{
+    background:#22c3a3 ;
+}
+.mrnue2{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.mrnue2 li{
+    padding: 10px 30px;
+}
+.mrnue2 li a{
+    font-size: 20px;
+    
+}
+
+
+.mrnue2 li a:hover{
+    color: rgb(255, 0, 76);
+    background: red;
+    transition: .5s;
+    
+}
+
+
+.fa, .fas {
+    font-weight: 900;
+    font-size: 30px;
+    color: #0bb99b;
+}
+/* banner */
+
+.banner-section{
+    background-image: url(./img/hourglass-time-banner-background-format-wood-54533019.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+    
+
+}
+.banner-section .baner-index{
+    padding: 20px;
+}
+.banner-section .baner-index h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgba(23, 152, 175, 0.979);
+}
+.banner-section .baner-index h4{
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+}
+.banner-section .baner-index span{
+    font-size: 20px;
+    padding: 10px 30px;
+    border: 2px solid white;
+    display: inline-block;
+    text-decoration-line: none;
+    background: rgb(36, 194, 141);
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+/* servicing */
+
+.div1 span i{
+    font-size: 50px;
+    color: teal;
+    margin-bottom: 20px;
+}
+
+.service-iner{
+    border-bottom: 2px solid turquoise;
+    padding: 10px;
+}
+
+/* service-2 */
+
+.iner-img3{}
+.iner-img3 img{
+    height: 400px;
+    width:550px;
+    
+    
+}
+
+/* foter */
+
+.foter{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.foter li{
+    
+    list-style: none;
+}
+.foter li i{
+    padding: 20px 30px;
+}
+
+.foter-2{
+    margin-top: -25px;
+}
+.foter-2 h4{
+    color: white;
+    font-size: 30px;
+}

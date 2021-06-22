@@ -1,0 +1,31 @@
+@media(max-width:1142px) {
+    .mrnue2 li {
+        padding: 5px 15px;
+    }
+
+}
+
+@media (max-width:992px) {
+    .mrnue2 li {
+        padding: 3px 5px;
+    }
+
+}
+
+@media(max-width:988px) {
+    .mrnue2 li {
+    position: absolute;
+    padding: 2px;
+    }
+
+}
+@media (768px) {
+    .banner-section .baner-index h1 {
+        font-size: 39px;
+        font-weight: 700;
+        .h2, h2 {
+            font-size: calc(2.6rem + .9vw);
+        padding: 100px;
+        }
+        
+}
